@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave"/>
 
-# Salut, moi c’est Baruch 
+# Salut, moi c’est Aicha
 
 Je suis développeuse junior passionné par le code et les nouvelles technologies .  
 J’aime travailler avec **Python** , et je m’intéresse beaucoup à la **Design graphique** et **L'Inteligence Artificielle** Dans le futur, j'aimerais intergrer l'IA dans mes projets .  
